@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="videotiendaModelStoreContainer" CdmEntityContainer="videotiendaEntities">
+    <EntitySetMapping Name="alq_videojuegos">
+      <EntityTypeMapping TypeName="videotiendaModel.alq_videojuegos">
+        <MappingFragment StoreEntitySet="alq_videojuegos">
+          <ScalarProperty Name="ID_ALQ_VIDEOJUEGOS" ColumnName="ID_ALQ_VIDEOJUEGOS" />
+          <ScalarProperty Name="ID_ALQUILER" ColumnName="ID_ALQUILER" />
+          <ScalarProperty Name="NRO_REFERENCIA" ColumnName="NRO_REFERENCIA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="alquiler">
+      <EntityTypeMapping TypeName="videotiendaModel.alquiler">
+        <MappingFragment StoreEntitySet="alquiler">
+          <ScalarProperty Name="ID_ALQUILER" ColumnName="ID_ALQUILER" />
+          <ScalarProperty Name="FEC_ALQUILER" ColumnName="FEC_ALQUILER" />
+          <ScalarProperty Name="FEC_DEVOLUCION" ColumnName="FEC_DEVOLUCION" />
+          <ScalarProperty Name="VLR_ALQUILER" ColumnName="VLR_ALQUILER" />
+          <ScalarProperty Name="VLR_MULTAS" ColumnName="VLR_MULTAS" />
+          <ScalarProperty Name="NRO_DOC" ColumnName="NRO_DOC" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="cat_videojuegos">
+      <EntityTypeMapping TypeName="videotiendaModel.cat_videojuegos">
+        <MappingFragment StoreEntitySet="cat_videojuegos">
+          <ScalarProperty Name="ID_CAT_VIDEOJUEGOS" ColumnName="ID_CAT_VIDEOJUEGOS" />
+          <ScalarProperty Name="ID_CATEGORIA" ColumnName="ID_CATEGORIA" />
+          <ScalarProperty Name="NRO_REFERENCIA" ColumnName="NRO_REFERENCIA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="categorias">
+      <EntityTypeMapping TypeName="videotiendaModel.categorias">
+        <MappingFragment StoreEntitySet="categorias">
+          <ScalarProperty Name="ID_CATEGORIA" ColumnName="ID_CATEGORIA" />
+          <ScalarProperty Name="NOM_CATEGORIA" ColumnName="NOM_CATEGORIA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="dominios">
+      <EntityTypeMapping TypeName="videotiendaModel.dominios">
+        <MappingFragment StoreEntitySet="dominios">
+          <ScalarProperty Name="TIPO_DOMINIO" ColumnName="TIPO_DOMINIO" />
+          <ScalarProperty Name="ID_DOMINIO" ColumnName="ID_DOMINIO" />
+          <ScalarProperty Name="VLR_DOMINIO" ColumnName="VLR_DOMINIO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="personas">
+      <EntityTypeMapping TypeName="videotiendaModel.personas">
+        <MappingFragment StoreEntitySet="personas">
+          <ScalarProperty Name="NRO_DOC" ColumnName="NRO_DOC" />
+          <ScalarProperty Name="TIPO_DOC" ColumnName="TIPO_DOC" />
+          <ScalarProperty Name="NOMBRES" ColumnName="NOMBRES" />
+          <ScalarProperty Name="CELULAR" ColumnName="CELULAR" />
+          <ScalarProperty Name="CORREO" ColumnName="CORREO" />
+          <ScalarProperty Name="DIRECCION" ColumnName="DIRECCION" />
+          <ScalarProperty Name="TIPO_PERSONA" ColumnName="TIPO_PERSONA" />
+          <ScalarProperty Name="CONTRASENA" ColumnName="CONTRASENA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="productores">
+      <EntityTypeMapping TypeName="videotiendaModel.productores">
+        <MappingFragment StoreEntitySet="productores">
+          <ScalarProperty Name="ID_PROD" ColumnName="ID_PROD" />
+          <ScalarProperty Name="NOM_PROD" ColumnName="NOM_PROD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="videojuegos">
+      <EntityTypeMapping TypeName="videotiendaModel.videojuegos">
+        <MappingFragment StoreEntitySet="videojuegos">
+          <ScalarProperty Name="NRO_REFERENCIA" ColumnName="NRO_REFERENCIA" />
+          <ScalarProperty Name="NOM_VIDEOJUEGO" ColumnName="NOM_VIDEOJUEGO" />
+          <ScalarProperty Name="IMG_VIDEOJUEGO" ColumnName="IMG_VIDEOJUEGO" />
+          <ScalarProperty Name="ID_PROD" ColumnName="ID_PROD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

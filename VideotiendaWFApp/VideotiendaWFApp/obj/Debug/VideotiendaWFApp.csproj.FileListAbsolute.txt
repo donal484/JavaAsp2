@@ -1,0 +1,13 @@
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\bin\Debug\VideotiendaWFApp.exe.config
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\bin\Debug\VideotiendaWFApp.exe
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\bin\Debug\VideotiendaWFApp.pdb
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\bin\Debug\EntityFramework.dll
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\bin\Debug\EntityFramework.xml
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.csprojResolveAssemblyReference.cache
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.Properties.Resources.resources
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.Views.FrmDominios.resources
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.csproj.GenerateResource.Cache
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.exe
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.pdb
