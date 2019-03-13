@@ -11,3 +11,4 @@ C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFAp
 C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.csproj.GenerateResource.Cache
 C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.exe
 C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.pdb
+C:\wkp_poli\JavaAsp2\VideotiendaWFApp\VideotiendaWFApp\obj\Debug\VideotiendaWFApp.Views.FrmGestionarDominios.resources
